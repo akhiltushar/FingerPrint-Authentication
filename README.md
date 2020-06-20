@@ -14,11 +14,11 @@ fluttertoast: ^4.0.0
 ## How to run this
 Running this is as simple as it gets. Follow this steps
 
-Open your terminal (NOTE: git bash prefered/ Terminal on VS Code)
-Navigate to the project folder where you have cloned this repo.
-Open an emulator or plug in a real device
-Type the following command in the terminal
-flutter run
+* Open your terminal (NOTE: git bash prefered/ Terminal on VS Code)
+* Navigate to the project folder where you have cloned this repo.
+* Open an emulator or plug in a real device
+* Type the following command in the terminal
+* flutter run
 ## Contributors 👩‍💻
 Akhil Tushar
 
