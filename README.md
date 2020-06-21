@@ -25,8 +25,8 @@ Running this is as simple as it gets. Follow this steps
 * flutter run
 ## Contributors 👩‍💻
 
-- Tushar(https://github.com/akhiltushar)
+- [Tushar](https://github.com/akhiltushar)
 
-- Anushka Shukla(https://github.com/Anushka-shukla)
+- [Anushka Shukla](https://github.com/Anushka-shukla)
 
-- Abhishek Kumar(https://github.com/DOOMSTERR)
+- [Abhishek Kumar](https://github.com/DOOMSTERR)
