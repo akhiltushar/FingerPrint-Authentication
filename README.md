@@ -9,7 +9,7 @@ It is an application that uses fingerprint as biometric authentication to access
 
 
 <p align="center">
-  <img width="900" height="450" src="blob:https://medium.com/36267dc3-1ea9-4866-a197-3d75e5ed9273">
+  <img width="900" height="450" src="https://cdn-images-1.medium.com/max/800/1*Gj_x9AXgeQTRDA_XolWBAg.jpeg">
 </p>
 
 ### 🎯 If you like this repo then please give it a ⭐️
