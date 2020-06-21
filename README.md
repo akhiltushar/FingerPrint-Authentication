@@ -9,7 +9,7 @@ It is an application that uses fingerprint as biometric authentication to access
 
 
 <p align="center">
-  <img width="900" height="450" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmytechdecisions.com%2Fmobility%2Fqualcomm-fingerprint-sensor-secure%2F&psig=AOvVaw1TLvlqQMwp0AWwNXQhZgPg&ust=1592821921579000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODkh5vakuoCFQAAAAAdAAAAABAD">
+  <img width="900" height="450" src="blob:https://medium.com/36267dc3-1ea9-4866-a197-3d75e5ed9273">
 </p>
 
 ### 🎯 If you like this repo then please give it a ⭐️
