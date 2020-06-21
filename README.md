@@ -24,8 +24,9 @@ Running this is as simple as it gets. Follow this steps
 * Type the following command in the terminal
 * flutter run
 ## Contributors 👩‍💻
-Akhil Tushar
 
-Anushka Shukla
+- Tushar(https://github.com/akhiltushar)
 
-Abhishek Kumar
+- Anushka Shukla(https://github.com/Anushka-shukla)
+
+- Abhishek Kumar(https://github.com/DOOMSTERR)
